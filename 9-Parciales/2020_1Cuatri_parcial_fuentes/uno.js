@@ -114,7 +114,7 @@ function mostrar()
         alert("A-No se compraron alcoholes");        
     }
     alert("b-El tipo con más unidades es: "+tipoMasUnidades+" y el promedio por compras es de: "+promedioCompra.toFixed(2));
-    alert("C-Las unidades de jabon son: "+acumJabon);
+    alert("C-Las unidades de jabon son: alex "+acumJabon);
 }
 /*
 a) Del más barato de los alcohol, la cantidad de unidades y el fabricante
